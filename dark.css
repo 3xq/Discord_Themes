@@ -1,0 +1,281 @@
+ 
+ /* This is the main Darkcord CSS File. Do not edit this area */
+
+/* Untagged */
+
+.attachPopout-36hjtN,
+.footer-3mqk7D,
+.uploadModal-2ifh8j {
+    background-color: #131313 !important;
+    box-shadow: none !important;
+}
+.uploadModal-2ifh8j .scrollableContainer-2NUZem {
+    background-color: #131313;
+    border: 1px solid #131313;
+}
+
+.root-SR8cQa,
+.userPopout-3XzG_A {
+    background-color:#131313;
+    box-shadow: 0 2px 10px 0 #131313 !important;
+}
+
+.body-3iLsc4,
+.bodyInner-245q0L,
+.footer-1fjuF6 {
+    background: 0 0 !important;
+}
+.quickMessage-1yeL4E {
+    background-color:  #131313 !important;
+    border-color:  #131313 !important;
+}
+.note-3kmerW textarea {
+    border: 1px solid transparent;
+}
+.note-3kmerW textarea:focus {
+    background-color:  #131313;
+    border-color:  #131313;
+}
+.bodyTitle-Y0qMQz {
+    text-align: center;
+    position: relative;
+    color: #e6e6e6;
+    text-shadow: 0 2px 5px #131313;
+    z-index: 2;
+}
+
+.bodyTitle-Y0qMQz::before {
+    content: "";
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    left: 0;
+    top: calc(50% - 1px);
+    z-index: -1;
+}
+
+.rolesList-22qj2L .role-2irmRk{
+    border-radius: 6px;
+}
+
+ .autocomplete-1vrmpx {
+    background-color: #242424;
+}
+
+.auto-Ge5KZx, .auto-Ge5KZx.fade-2kXiP2:hover, .auto-Ge5KZx.scrolling-1Cdwk- {
+    background-color: #141414;
+}
+
+ .option-96V44q:after {
+    background: -webkit-gradient(linear,left top,right top,from(rgba(36,36,36)),color-stop(10%,#242424));
+    background: linear-gradient(90deg,rgba(36,36,36),#242424 100%);
+}
+
+ .option-96V44q:after {
+    background: none;
+}
+
+.peopleColumn-29fq28{
+	background-color: #0c0c0c;
+}
+
+ .focused-2bY0OD {
+    background-color: #242424;
+}
+
+ .root-1gCeng {
+    background: #242424;
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV {
+    background-color: #131313;
+}
+
+ .selectorSelected-1_M1WV {
+    background-color: #141414;
+}
+
+.container-3baos1, .container-3baos1 .avatar-SmRMf2 {
+    background-color: #0c0c0c;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+}
+
+.container-6sXIoE.withTimeline-824fT_ {
+    background-color: #0c0c0c;
+    padding-top: 8px;
+}
+
+.container-1giJp5 {
+    color: var(--header-primary);
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    border-bottom: 1px solid var(--background-modifier-accent);
+    background-color: #0c0c0c;
+}
+
+.activityPanel-28dQGo {
+    background-color: #0c0c0c;
+    border-bottom: 1px solid var(--background-modifier-accent);
+}
+
+.description-2L932D {
+	display:none;
+}
+
+.section-2gLsgF {
+    background-color: #141414; 
+    position: relative;
+    padding: 12px;
+    border-radius: 4px;
+}
+
+.colorDefault-2K3EoJ.focused-3afm-j {
+    background-color: #141414;
+    color: #fff;
+}
+/*_____________________________________________________________________________________*/
+
+
+/* Tagged */
+ .body-3iLsc4, .footer-1fjuF6 {
+    background-color: #111111;
+}
+
+.headerTop-3C2Zn0 {
+    background-color: #0c0c0c;
+    padding: 16px;
+}
+
+.activity-11LB_k {
+    background-color: #141414;
+    padding: 16px;
+}
+
+ .option-96V44q.selected-rZcOL-:after {
+    background: #242424;
+}
+
+ .option-96V44q.selected-rZcOL- {
+    background-color: #242424;
+}
+
+ .footer-2gL1pp {
+    background-color: #242424;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.wordmarkWindows-1v0lYD {
+	content: url(https://i.imgur.com/ESk2eoK.png);
+	height: 9px;
+	width: 60px;
+	margin-left: -2px;
+	margin-top: 4px;
+}
+
+.circleIconButton-jET_ig:hover, .circleIconButton-jET_ig.selected-ugP_am {
+    background: black;
+    color: white;
+}
+
+.circleIconButton-jET_ig {
+    background: #141414;
+    color: white;
+}
+
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+	background: black;
+} 
+
+ .wrapper-1-Fsb8 {
+	background-color: #141414;
+}
+
+ .wrapper-1-Fsb8:hover {
+	background-color: #242424;
+}
+
+.markup-2BOw-j code.inline {
+    background-color: #0c0c0c;
+} 
+
+.markup-2BOw-j code {
+    background: #0c0c0c;
+    border: 1px solid #000000;
+}
+
+.buttons-3JBrkn>.button-38aScr:nth-child(2) {
+	display: none;
+}
+
+.button-38aScr:disabled {
+    cursor: not-allowed;
+    background-color: #5d5a5a !important;
+    color: white !important;
+    opacity: .5;
+}
+
+.selectorButtonSelected-t5V9On {
+    background-color: #5d5a5a !important;
+    color: white !important;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+    color: white;
+    background-color: #5d5a5a;
+}
+
+ .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+    background-color: #5d5a5a !important;
+    color: white !important;
+} 
+
+ .categoryFadeBlurple-1j72_A, .categoryFadeBlurple-1j72_A {
+    background-color: none;
+} 
+
+ .categoryFade-2ybR1J, .categoryFade-2ybR1J {
+    background-color: none;
+} /* Another fix for Gif search */
+
+ .root-1gCeng {
+    background-color: #0c0c0c !important;
+} 
+
+ .footer-2gL1pp {
+    background-color: #0c0c0c !important;
+}
+
+.auto-Ge5KZx, .auto-Ge5KZx.fade-2kXiP2:hover, .auto-Ge5KZx.scrolling-1Cdwk- {
+	background-color: #0c0c0c !important;
+}
+
+ .modal-yWgWj- {
+    background-color: #0c0c0c;
+}
+
+.modeSelected-1zApJ_ .content-3at_AU {
+	color: white !important;
+	background-color: #48424252 !important;
+} 
+
+.modeUnread-1zpFdA .content-3at_AU {
+	color: white !important;
+	background-color: rgba(255, 255, 255, 0.04) !important;
+} 
+
+[src*="480196622962393089"] ~ .header-23xsNx>.username-1A8OIy{
+    animation: rainbow 1s infinite;
+}
+
+@keyframes rainbow {
+	0%  {color: magenta;}
+	25% {color: aqua;}
+	50% {color: yellow;}
+	75% {color: lime;}
+	100% {color: magenta;}
+} /* What do you think */
